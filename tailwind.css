@@ -1031,6 +1031,11 @@ video {
     height: 15rem;
   }
 
+  .xl\:text-sm{
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
   .xl\:text-lg{
     font-size: 1.125rem;
     line-height: 1.75rem;
@@ -1039,14 +1044,6 @@ video {
   .xl\:text-4xl{
     font-size: 2.25rem;
     line-height: 2.5rem;
-  }
-
-  .xl\:text-smp{
-    font-size: 0.825rem;
-  }
-
-  .xl\:leading-snug{
-    line-height: 1.375;
   }
 
   .xl\:leading-normal{
@@ -1064,6 +1061,10 @@ video {
 
   .xl\:pt-24{
     padding-top: 6rem;
+  }
+
+  .xl\:w-56{
+    width: 14rem;
   }
 }
 
