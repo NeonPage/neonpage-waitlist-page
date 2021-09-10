@@ -810,6 +810,18 @@ video {
   width: 90vw;
 }
 
+.z-20{
+  z-index: 20;
+}
+
+.z-30{
+  z-index: 30;
+}
+
+.z-40{
+  z-index: 40;
+}
+
 @-webkit-keyframes spin{
   to{
     transform: rotate(360deg);
